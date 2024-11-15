@@ -1,0 +1,7 @@
+{
+  "name": "ionicupload",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
